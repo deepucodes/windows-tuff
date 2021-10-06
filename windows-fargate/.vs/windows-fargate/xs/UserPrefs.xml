@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{4FEBB0C4-2A7C-4B82-8428-87CD42D0832F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="windows-fargate/Pages/Index.cshtml">
+    <Files>
+      <File FileName="windows-fargate/Pages/Index.cshtml" Line="11" Column="1" />
+      <File FileName="../../Documents/ASP work/live/default.aspx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.windows-fargate FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
